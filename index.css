@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    padding: 0;
+  
+}
+
+#logo{
+    height:3em ;
+}
+
+
+
+.menu a {
+    font: 1.2em;
+    color:#E94C26;
+    font-weight: bold;
+    text-decoration: none;
+    padding-bottom: 2em;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+
+
+
+h1{font-family: 'Source Sans Pro', sans-serif;
+    color: #EF7A5E;
+    font-weight: bold;
+    font-size: 2em
+
+}
+
+h2{font-family: 'Source Sans Pro', sans-serif;
+    color: #EF7A5E;
+    font-weight: bold;
+    font-size: 1.5em
+
+}
+
+
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #EF7A5E;
+    font-size: large;
+    font-weight: bolder;
+    
+}
+
+.contact{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #EF7A5E;
+    font-size: large;
+    font-weight: bolder;
+    
+}
+
+.apropostechnique{
+    line-height: 2em;
+    text-align: justify;
+    margin: auto;
+    width:80%;
+    
+}
+
+
+
+.boutton a{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-weight: bold;
+    background-color: #EF7A5E;
+    font-size: 1.5em;
+    width: 6em;
+    height: 2em;
+    }
+
+    .tailleimage{
+        width: 100%;
+        height:  100%;
+        
+    }
+
+    .taillecard{
+        height: 90%;
+    }
+
+   
+    .padtechnique{
+        padding-bottom: 6em;
+    }
+
+
+
+    .couleurfooter a {
+        font: 1.2em;
+        color: gray;
+        font-weight: bold;
+        text-decoration: none;
+        padding-bottom: 2em;
+        font-family: 'Source Sans Pro', sans-serif;
+    
+    }
+  
+    footer{
+       border-top: 0.1em solid lightgrey;
+      padding-top: 1em;
+    }
+
+    .tailleicone{
+        
+        width: 2em;
+        margin-right: 2em;
+      
+    }
+
+  
